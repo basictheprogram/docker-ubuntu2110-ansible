@@ -1,6 +1,6 @@
 # Ubuntu 21.10 (Impish Indri) Ansible Test Image
 
-[![CI](https://github.com/basictheprogram/docker-ubuntu2110-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/basictheprogram/docker-ubuntu2110-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/basictheprogram/docker-ubuntu2110-ansible)](https://hub.docker.com/r/basictheprogram/docker-ubuntu2110-ansible/)
+[![CI](https://github.com/basictheprogram/docker-ubuntu2110-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/basictheprogram/docker-ubuntu2110-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/basictheprogram/docker-ubuntu2110-ansible)](https://hub.docker.com/r/basictheprogram/ubuntu2110-ansible/)
 
 Ubuntu 21.10 LTS (Impish Indri) Docker container for Ansible playbook and role testing.
 
